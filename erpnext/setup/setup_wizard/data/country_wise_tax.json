@@ -3900,13 +3900,9 @@
 	},
 
 	"Indonesia": {
-		"Sales Tax": {
-			"account_name": "PPN Keluaran",
-			"tax_rate": 11.00
-		},
-		"Purchase Tax": {
-			"account_name": "PPn Masukan",
-			"tax_rate": 11.00
+		"Indonesia Tax": {
+			"account_name": "VAT",
+			"tax_rate": 10.00
 		}
 	},
 
